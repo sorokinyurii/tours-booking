@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "photo": "/images/room1.jpg",
+    "name": "Grand Hall",
+    "organization": "Elite Venues Ltd",
+    "address": "123 Main Street, New York, NY",
+    "capacity": "from 10",
+    "price": "from 200$/day"
+  },
+  {
+    "id": 2,
+    "photo": "/images/room2.jpg",
+    "name": "Skyline Terrace",
+    "organization": "Urban Events",
+    "address": "456 Park Avenue, Chicago, IL",
+    "capacity": "from 15",
+    "price": "from 350$/day"
+  },
+  {
+    "id": 3,
+    "photo": "/images/room3.jpg",
+    "name": "Royal Ballroom",
+    "organization": "Luxury Venues Co.",
+    "address": "789 Sunset Blvd, Los Angeles, CA",
+    "capacity": "from 4",
+    "price": "from 500$/day"
+  },
+  {
+    "id": 4,
+    "photo": "/images/room4.jpg",
+    "name": "Garden Pavilion",
+    "organization": "Green Spaces Ltd",
+    "address": "321 Oak Lane, Austin, TX",
+    "capacity": "from 2",
+    "price": "from 150$/day"
+  },
+  {
+    "id": 5,
+    "photo": "/images/room5.jpg",
+    "name": "Ocean View Hall",
+    "organization": "Seaside Events",
+    "address": "654 Beach Road, Miami, FL",
+    "capacity": "from 10",
+    "price": "from 400$/day"
+  },
+  {
+    "id": 6,
+    "photo": "/images/room6.jpg",
+    "name": "Mountain Lodge",
+    "organization": "Summit Events",
+    "address": "987 Rocky Trail, Denver, CO",
+    "capacity": "from 1",
+    "price": "from 180$/day"
+  },
+  {
+    "id": 7,
+    "photo": "/images/room7.jpg",
+    "name": "Historic Mansion",
+    "organization": "Heritage Gatherings",
+    "address": "741 Heritage Ave, Boston, MA",
+    "capacity": "from 5",
+    "price": "from 600$/day"
+  },
+  {
+    "id": 8,
+    "photo": "/images/room8.jpg",
+    "name": "Lakeside Retreat",
+    "organization": "Tranquil Spaces",
+    "address": "852 Lakeview Drive, Seattle, WA",
+    "capacity": "from 6",
+    "price": "from 250$/day"
+  },
+  {
+    "id": 9,
+    "photo": "/images/room9.jpg",
+    "name": "Downtown Loft",
+    "organization": "Cityscape Venues",
+    "address": "369 Urban Street, San Francisco, CA",
+    "capacity": "from 7",
+    "price": "from 300$/day"
+  },
+  {
+    "id": 10,
+    "photo": "/images/room10.jpg",
+    "name": "Sunset Rooftop",
+    "organization": "Sky High Events",
+    "address": "159 Skyline Blvd, Las Vegas, NV",
+    "capacity": "from 10",
+    "price": "from 450$/day"
+  },
+  {
+    "id": 11,
+    "photo": "/images/room11.jpg",
+    "name": "Artistic Studio",
+    "organization": "Creative Spaces",
+    "address": "753 Gallery Lane, Portland, OR",
+    "capacity": "from 8",
+    "price": "from 120$/day"
+  },
+  {
+    "id": 12,
+    "photo": "/images/room12.jpg",
+    "name": "Countryside Barn",
+    "organization": "Rustic Weddings",
+    "address": "258 Country Road, Nashville, TN",
+    "capacity": "from 5",
+    "price": "from 275$/day"
+  }
+]

@@ -1,0 +1,27 @@
+.btnHover {
+  transition: transform 0.3s ease-in-out;
+}
+
+.btnHover:hover {
+  transform: scale(0.95);
+}
+
+.menuHover {
+  position: relative;
+  display: inline-block;
+}
+
+.menuHover::after {
+  content: "";
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: black;
+  transition: width 0.4s ease-in-out;
+}
+
+.menuHover:hover::after {
+  width: 100%;
+}
