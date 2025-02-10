@@ -1,0 +1,92 @@
+{
+  "tourUniqueId": "Guid",
+  "tourName": "Катаніе на поезде",
+  "tourTopic": "Детская экскурсія",
+  "tourAnnounce": "Почему гостям будет интересно посетить вашу экскурсию? Напишите в 3-4 предложениях о самых интересных моментах из экскурсии: что увидят, что узнают, что попробуют гости?",
+  "tourStyle": "family|fishing|hunting|trekking",
+  "tourType": "single|group",
+  "tourProgram": [
+    {
+      "stepNumber": 1,
+      "stepName": "10-00 Приезд",
+      "stepDescription": "Приезд на место"
+    }
+  ],
+  "tourAttributes": {
+    "difficulty": "Easy|Normal|Advanced|Hard",
+    "duration": "12d",
+    "age": "12+",
+    "groupSize": "10",
+    "languages": ["en", "blr"]
+  },
+  "tourRoute": "Одна строка, описывающая основные точки маршрута, напр.: Минск - Бобруйск - Гомель - Минск",
+  "tourAdditionalInfo": "Что взять с собой?",
+  "meetPoint": {
+    "Lattitude": "lattitude",
+    "Longitude": "longitude",
+    "AddressLine": ""
+  },
+  "tourContacts": [
+    { "contactType": "email|phone|instagram|address", "value": "+1233245235" }
+  ],
+  "images": [
+    {
+      "url": "https://image1.com",
+      "type": "main"
+    }
+  ],
+  "price": {
+    "pricingType": "group|person",
+    "pricePerPerson": [
+      {
+        "from": 1,
+        "to": 3,
+        "price": "20"
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "price": "15"
+      }
+    ],
+    "pricePerGroup": [
+      {
+        "from": 1,
+        "to": 3,
+        "price": "20"
+      }
+    ],
+    "discountCount": 0
+  },
+  "tourCalendar": {
+    "singleDay": "true|false",
+    "scheduleType": "every week | by dates and time",
+    "scheduleList": [
+      {
+        "dates": [{ "from": "2025-03-29", "to": "2025-03-29" }],
+        "time": "10:00",
+        "duration": " 12h"
+      }
+    ],
+    "publishWindowInDays": "30d",
+    "canBookBefore": "1h|2h|3h,6h,12h,1d,2d,3d,7d,14d,30d"
+  },
+  "paymentOptions": {
+    "paymentType": "prePayment|postPayment"
+  },
+  "guestRequiments": {
+    "minAge": 18,
+    "maxAge": 100,
+    "minKidAge": 5,
+    "additional": "Для квадроцикла нужно водительское удостверение"
+  },
+  "seo": {
+    "slug": "best-tour-ever"
+  },
+  "faqs": [
+    {
+      "question": "Кто будет моим гидом?",
+      "answer": "самый лучший человек в городе"
+    }
+  ]
+}
